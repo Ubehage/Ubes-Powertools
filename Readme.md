@@ -1,7 +1,7 @@
 # Ubes PowerTools
 
-This is a collection of small tools an utilities, designed to test system performance.
-I got my inspiration from the old Windows 2000 Resource Kit.
+This is a collection of small tools and utilities, designed to test system performance.
+Inspired by the old Windows 2000 Resource Kit.
 
 ---
 
