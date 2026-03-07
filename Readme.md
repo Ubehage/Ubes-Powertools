@@ -20,6 +20,8 @@ Source code is maintained in separate repositories; this repo only contains read
 - CPU-Stress
   - Can overload the CPU at will.
   - Per-core control. The user can overload certain cores, or all at once.
+- Bit Manipulator
+  - A small program for changing a single bit anywhere in a file.
   
 ## Safety notice
 - These programs all have the ability to crash Windows or potentially cause heat damage.
@@ -28,3 +30,4 @@ Source code is maintained in separate repositories; this repo only contains read
 
 ## License
 - MIT License. All code is free to use and modify.
+
