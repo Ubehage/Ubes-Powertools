@@ -14,14 +14,18 @@ Source code is maintained in separate repositories; this repo only contains read
 
 ## Included products
 - MemEater
-  - Allocates large amounts of memory to test system stability under pressure.
+  - Allocates large amounts of memory to test system stability under pressure.  
+    [MemEater Repository](https://github.com/Ubehage/MemEater)
 - ShutdownTimer
-  - A simple program for shutting down the computer after a specified amount of time.
+  - A simple program for shutting down the computer after a specified amount of time.  
+    [ShutdownTimer Repository](https://github.com/Ubehage/ShutdownTimer-v2)
 - CPU-Stress
   - Can overload the CPU at will.
-  - Per-core control. The user can overload certain cores, or all at once.
+  - Per-core control. The user can overload certain cores, or all at once.  
+    [CPU-Stress Repository](https://github.com/Ubehage/CPU-Stress)
 - Bit Manipulator
-  - A small program for changing a single bit anywhere in a file.
+  - A small program for changing a single bit anywhere in a file.  
+    [Bit Manipulator Repository](https://github.com/Ubehage/Ubehage-s-Bit-Manipulator)
   
 ## Safety notice
 - These programs all have the ability to crash Windows or potentially cause heat damage.
@@ -30,4 +34,5 @@ Source code is maintained in separate repositories; this repo only contains read
 
 ## License
 - MIT License. All code is free to use and modify.
+
 
