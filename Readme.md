@@ -26,6 +26,9 @@ Source code is maintained in separate repositories; this repo only contains read
 - Bit Manipulator
   - A small program for changing a single bit anywhere in a file.  
     [Bit Manipulator Repository](https://github.com/Ubehage/Ubehage-s-Bit-Manipulator)
+- WindowFun
+  - A small program originally made for fun, that can spawn thousands of processes and windows very fast.
+    [WindowFun Repository](https://github.com/Ubehage/WindowFun)
   
 ## Safety notice
 - These programs all have the ability to crash Windows or potentially cause heat damage.
@@ -34,5 +37,6 @@ Source code is maintained in separate repositories; this repo only contains read
 
 ## License
 - MIT License. All code is free to use and modify.
+
 
 
