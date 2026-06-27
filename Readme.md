@@ -27,8 +27,11 @@ Source code is maintained in separate repositories; this repo only contains read
   - A small program for changing a single bit anywhere in a file.  
     [Bit Manipulator Repository](https://github.com/Ubehage/Ubehage-s-Bit-Manipulator)
 - WindowFun
-  - A small program originally made for fun, that can spawn thousands of processes and windows very fast.
+  - A small program originally made for fun, that can spawn thousands of processes and windows very fast.  
     [WindowFun Repository](https://github.com/Ubehage/WindowFun)
+- Reboot and Shutdown
+  - A small program that will reboot the computer and then shut down after a complete reboot.  
+    [Reboot and Shutdown Repository](https://github.com/Ubehage/Reboot-and-Shutdown)
   
 ## Safety notice
 - These programs all have the ability to crash Windows or potentially cause heat damage.
